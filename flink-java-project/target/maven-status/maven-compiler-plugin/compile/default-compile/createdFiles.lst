@@ -1,0 +1,7 @@
+org/apache/flink/quickstart/WindowWordCount$Splitter.class
+org/apache/flink/quickstart/WindowWordCount$SimpleSink$1.class
+org/apache/flink/quickstart/WindowWordCount.class
+org/apache/flink/quickstart/WindowWordCount$SimpleSchema.class
+org/apache/flink/quickstart/WindowWordCount$SimpleSink.class
+org/apache/flink/quickstart/WindowWordCount$OutMap.class
+org/apache/flink/quickstart/NewWordCount.class
